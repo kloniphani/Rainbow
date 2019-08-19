@@ -46,10 +46,13 @@
     </Interpreter>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="support\" />
     <Folder Include="scripts\" />
     <Folder Include="source\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="support\documentation.docx" />
+    <Content Include="support\meet review.docx" />
     <Content Include="requirements.txt" />
     <Content Include="source\Books - 20190530.xlsx" />
     <Content Include="source\Chapters - 20190530.xlsx" />
