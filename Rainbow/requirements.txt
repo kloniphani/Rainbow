@@ -19,7 +19,7 @@ gscholar==1.6.1
 idna==2.8
 importlib-metadata==0.19
 more-itertools==7.2.0
-numpy==1.17.0
+numpy==1.22.0
 packaging==19.1
 pandas==0.25.0
 pip==19.2.2
