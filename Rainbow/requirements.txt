@@ -38,7 +38,7 @@ readme-renderer==24.0
 requests==2.22.0
 requests-toolbelt==0.9.1
 scholarly==0.2.5
-setuptools==41.1.0
+setuptools==65.5.1
 six==1.12.0
 soupsieve==1.9.2
 tqdm==4.33.0
